@@ -28,7 +28,7 @@ But knowing the stuff will help you become better! :muscle:*
 ### Algorithms
 - [Big O Cheatsheet](http://bigocheatsheet.com/)
 - :book: [Grokking Algorithms](https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio)
-- [Sorting Algorithms](https://visualgo.net/en/sorting)
+- [Algorithms Visualization](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
 ### Data Structures
 - :movie_camera: [UC Berkeley, Data Structures Course](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iAlnI-BQr9hjqADPBtujFJd)
@@ -120,6 +120,11 @@ But knowing the stuff will help you become better! :muscle:*
 - :book: [Cracking the Coding Interview: 189 Programming Questions and Solutions](https://www.goodreads.com/book/show/25707092-cracking-the-coding-interview)
 - :fire: [Everything you need to know to get the job](https://github.com/kdn251/interviews)
 
+### Remote Work
+- :globe_with_meridians: [Remote Work List for Developers](https://github.com/georgemandis/remote-working-list)
+- :zap: [NomadList](https://nomadlist.com/)
+- :book: [The Ultimate Guide to Remote Work](https://zapier.com/learn/remote-work/)
+
 ### Engineering Philosophy
 - :movie_camera: [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy)
 - :page_facing_up: [Speed In Software Development](https://www.targetprocess.com/articles/speed-in-software-development/)
@@ -149,10 +154,13 @@ But knowing the stuff will help you become better! :muscle:*
 - [Without Coding](https://www.producthunt.com/@jurica87/collections/without-coding)
 - [Simpleicons](https://simpleicons.org/)
 - [Learn Anything](https://learn-anything.xyz/)
+
 ### Where To Look For Further Info
+- [freeCodeCamp Guide](https://guide.freecodecamp.org/)
 - [GeeksForGeeks](http://www.geeksforgeeks.org/)
 - [Dev.To](https://dev.to/)
 - [Stackoverflow](https://stackoverflow.com/)
+
 ### Coding Practice Sites :zap:
 - :link: [CodeForces](http://codeforces.com/)
 - :link: [CodeChef](https://www.codechef.com)
@@ -166,3 +174,5 @@ But knowing the stuff will help you become better! :muscle:*
 - :link: [Exercism](http://www.exercism.io/)
 - :link: [CodeFights](https://codefights.com/)
 - :link: [Project Euler](https://projecteuler.net/)
+- :link: [LeetCode](https://leetcode.com/)
+- :link: [InterviewBit](https://www.interviewbit.com/)
