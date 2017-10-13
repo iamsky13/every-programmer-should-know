@@ -34,6 +34,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :movie_camera: [UC Berkeley, Data Structures Course](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iAlnI-BQr9hjqADPBtujFJd)
 - [Foundations of Data Structures - EDX](https://www.edx.org/course/foundations-data-structures-iitbombayx-cs213-1x-0#!)
 - [Data Structures - Coursera](https://www.coursera.org/learn/data-structures)
+- [Mathematics for Computer Science - Eric Lehman](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
 
 ### Numbers
 - :book: [How to Count](https://www.goodreads.com/book/show/12093869-how-to-count)
@@ -66,7 +67,7 @@ But knowing the stuff will help you become better! :muscle:*
 
 ### RegExp
 - [RegexHQ](https://github.com/regexhq)
-- [Learn regex the easy way](https://github.com/zeeshanu/learn-regex.git)
+- [Learn regex the easy way](https://github.com/zeeshanu/learn-regex)
 
 ### Security
 - :book: [Security Programming](https://www.dwheeler.com/secure-programs/)
@@ -90,6 +91,7 @@ But knowing the stuff will help you become better! :muscle:*
 
 ### Practices
 - :book: [Working Effectively with Legacy Code](https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code)
+- :book: [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/book/show/3735293-clean-code)
 - :book: [Test Driven Development: By Example](https://www.goodreads.com/book/show/387190.Test_Driven_Development)
 - :white_check_mark: [Going To Production Checklist](https://github.com/mr-mig/going-to-production)
 - :book: [Release It!](https://www.goodreads.com/book/show/1069827.Release_It_)
@@ -120,11 +122,17 @@ But knowing the stuff will help you become better! :muscle:*
 - :page_facing_up: [Equity 101 for Startup Employees](https://blog.esharesinc.com/equity-101-stock-option-basics/)
 - :book: [Cracking the Coding Interview: 189 Programming Questions and Solutions](https://www.goodreads.com/book/show/25707092-cracking-the-coding-interview)
 - :fire: [Everything you need to know to get the job](https://github.com/kdn251/interviews)
+- :book: [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
+- :page_facing_up: [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
 
+
+### UX/Usability
+- :book: [Don't Make Me Think: A Common Sense Approach to Web Usability](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited)
 ### Remote Work
 - :globe_with_meridians: [Remote Work List for Developers](https://github.com/georgemandis/remote-working-list)
 - :zap: [NomadList](https://nomadlist.com/)
 - :book: [The Ultimate Guide to Remote Work](https://zapier.com/learn/remote-work/)
+- :house: [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)
 
 ### Engineering Philosophy
 - :movie_camera: [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy)
@@ -156,6 +164,10 @@ But knowing the stuff will help you become better! :muscle:*
 - [Simpleicons](https://simpleicons.org/)
 - [Learn Anything](https://learn-anything.xyz/)
 
+### Licenses
+- [Choose An Open Source License](https://choosealicense.com/)
+- [Well-explained Software licenses in TLDR version](https://tldrlegal.com/)
+
 ### Where To Look For Further Info
 - [freeCodeCamp Guide](https://guide.freecodecamp.org/)
 - [GeeksForGeeks](http://www.geeksforgeeks.org/)
@@ -177,3 +189,4 @@ But knowing the stuff will help you become better! :muscle:*
 - :link: [Project Euler](https://projecteuler.net/)
 - :link: [LeetCode](https://leetcode.com/)
 - :link: [InterviewBit](https://www.interviewbit.com/)
+
